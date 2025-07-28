@@ -70,7 +70,7 @@
           letter-spacing: 5px;
      }
      ul{
-        list-style-image: url(/asstes/img/icon/list-icon-main.png);  
+        list-style-image: url(img/icon/list-icon-main.png);  
         margin-top: 20px;
         margin-left: -10px;
      }   
@@ -102,7 +102,7 @@
      color: var(--Main_font_color);
     }
     ul{
-     list-style: url(/asstes/img/icon/why\ icon.png);
+     list-style: url(img/icon/why\ icon.png);
      font-size: 20px;
      margin: 15px 0px 30px -12px;
     }
@@ -153,7 +153,7 @@
 }
 /* DISADVANTAGES part */
 .disadvantages {
-     background:url(/asstes/img/dis.png) no-repeat center /cover ;
+     background:url(img/dis.png) no-repeat center /cover ;
      color: var(--Main_font_color);
      h3{
           background: #8cd5fb;
@@ -165,7 +165,7 @@
           margin-top: 10px;
      }
      ul{
-          list-style: url(/asstes/img/icon/Discover\ list\ icon.png);
+          list-style: url(img/icon/Discover\ list\ icon.png);
           font-size: 20px;
           line-height: 38px;
           margin-bottom: 30px;
@@ -213,7 +213,7 @@
 }
 /* 3_STEP Part  */
 .step_three{
-     background: url(/asstes/img/s-step.png) no-repeat center /cover ;
+     background: url(img/s-step.png) no-repeat center /cover ;
      padding-bottom: 4rem;
 }
 .step_one {
